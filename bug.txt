@@ -1,2 +1,2 @@
 this is a bug.
-bug is unfixed
+bug is disappear
